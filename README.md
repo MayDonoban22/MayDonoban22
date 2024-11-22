@@ -14,8 +14,10 @@
 
 
 Soy desarrollador web y aquí podrás explorar algunos de mis proyectos.
+---
+ <div id="header" align="left">
 
-👨‍💻 Sobre mí:
+### :man_technologist: Sobre mí :
 
 - 💻 Actualmente, trabajo de manera independiente en mis proyectos personales y colaboro con clientes que necesitan soluciones web a medida.
 - 🧗 Me encuentro en proceso de formación con Tripleten para fortalecer mis habilidades en HTML, CSS, JavaScript, React, Node.js y Express, con el fin de optimizar mi trabajo y poder 
