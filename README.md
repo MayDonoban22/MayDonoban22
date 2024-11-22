@@ -33,7 +33,7 @@ Soy desarrollador web y aquí podrás explorar algunos de mis proyectos.
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Express](https://img.shields.io/badge/Express-84b400?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-f7721e?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/GitHub-080228?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-00249b?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-ff4400?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Webpack](https://img.shields.io/badge/Webpack-00a9e7?style=for-the-badge&logo=webpack&logoColor=white&labelColor=101010)]()
 
